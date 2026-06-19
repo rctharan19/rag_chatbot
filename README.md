@@ -54,7 +54,7 @@ rag-chatbot/
 ## Setup
 
 ```bash
-git clone https://github.com/synthex25/rag_chatbot.git
+git clone http://github.com/rctharan19/rag_chatbot.git
 cd rag_chatbot
 
 python -m venv venv
